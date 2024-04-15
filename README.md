@@ -1,5 +1,7 @@
 # Prefix-to-postfix_recursive
 
+[![Viewers](https://hits.sh/github.com/vtangstastic/prefix-to-postfix_recursive.svg)](https://hits.sh/github.com/vtangstastic/prefix-to-postfix_recursive/)
+
 
 **Description:**
 This project converts prefix expressions to postfix expressions. It includes a Python script that performs the conversion and provides a help menu for usage.
