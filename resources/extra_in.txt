@@ -1,0 +1,15 @@
+AB +-
+A
+++AB
++AB-CD
+AB+*
+*+AB-CD
+
+A
++
++-
+++ABC
++ABCD
+ABC
+
+^+BH

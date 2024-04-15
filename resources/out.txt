@@ -1,0 +1,29 @@
+Prefix expression: -+ABC
+Postfix expression: AB+C-
+Prefix expression: -A+BC
+Postfix expression: ABC+-
+Prefix expression: $+-ABC+D-EF
+Postfix expression: AB-C+DEF-+$
+Prefix expression: -*A$B+C-DE*EF
+Postfix expression: ABCDE-+$*EF*-
+Prefix expression: **A+BC+C-BA
+Postfix expression: ABC+*CBA-+*
+Prefix expression: /A+BC +C*BA
+Postfix expression: Invalid prefix expression
+Prefix expression: *-*-ABC+BA
+Postfix expression: AB-C*BA+-*
+Prefix expression: /+/A-BC-BA
+Postfix expression: ABC-/BA-+/
+Prefix expression: *$A+BC+C-BA
+Postfix expression: ABC+$CBA-+*
+Prefix expression: //A+B0-C+BA
+Postfix expression: Invalid prefix expression
+Prefix expression: *$A^BC+C-BA
+Postfix expression: Invalid prefix expression
+Blank: There is no input
+Blank: There is no input
+Blank: There is no input
+Blank: There is no input
+Blank: There is no input
+Blank: There is no input
+Blank: There is no input

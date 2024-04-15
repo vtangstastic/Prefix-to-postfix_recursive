@@ -1,0 +1,28 @@
+Prefix expression: AB +-
+Postfix expression: Invalid prefix expression
+Prefix expression: A
+Postfix expression: Invalid prefix expression
+Prefix expression: ++AB
+Postfix expression: AB++
+Prefix expression: +AB-CD
+Postfix expression: Invalid prefix expression
+Prefix expression: AB+*
+Postfix expression: Invalid prefix expression
+Prefix expression: *+AB-CD
+Postfix expression: AB+CD-*
+Blank: There is no input
+Prefix expression: A
+Postfix expression: Invalid prefix expression
+Prefix expression: +
+Postfix expression: Invalid prefix expression
+Prefix expression: +-
+Postfix expression: Invalid prefix expression
+Prefix expression: ++ABC
+Postfix expression: AB+C+
+Prefix expression: +ABCD
+Postfix expression: Invalid prefix expression
+Prefix expression: ABC
+Postfix expression: Invalid prefix expression
+Blank: There is no input
+Prefix expression: ^+BH
+Postfix expression: Invalid prefix expression
